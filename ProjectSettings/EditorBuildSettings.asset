@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9f248f2bcef4efb40b7f0d30f2557b41
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 3e1f49aaad18b5d48a39f129c4ea88ed
+  - enabled: 1
+    path: Assets/Scenes/PlayStory.unity
+    guid: 4cd2acec799a982488c4b20639c66469
+  - enabled: 1
+    path: Assets/Scenes/PlayLevel.unity
+    guid: 8e13adbf608aa5b45895a2df7e69834a
+  - enabled: 1
+    path: Assets/Scenes/PlayEndless.unity
+    guid: 9db17c04f51c99746b2409221927eacd
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 4c6b07cd2e8902141b20f774538f2a55
+  - enabled: 1
+    path: Assets/Scenes/Select_level.unity
+    guid: 249add8531b46e345a414782f8c8efc9
+  - enabled: 1
+    path: Assets/Scenes/Levels/Vorgabe.unity
+    guid: cf46a36bb72285f418f822b495c72a4a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_1.unity
+    guid: eebe50c2a5f92d8408794dfcfc9f843d
+  - enabled: 1
+    path: Assets/Scenes/Finished.unity
+    guid: 060f9c028f6409c4fad884272877af54
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_2.unity
+    guid: 75c54a7b18b4ca44981333f6f1c8a0e1
+  m_configObjects: {}
